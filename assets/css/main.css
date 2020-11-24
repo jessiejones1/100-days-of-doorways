@@ -1,0 +1,126 @@
+body {
+	background-color:black;
+	color:#D3D3D3;
+}
+
+img {
+	width:100%;
+	cursor: url(key.png), auto;
+	margin:50px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:70px;
+	width:15%;
+	align-content:center;
+}
+
+a {
+	text-decoration:none;
+	text-underline-position:none;
+	text-decoration-color:none;
+	text-align:center;
+	color:#D3D3D3;
+}
+
+.heading {
+	font-family: fino-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:100px;
+	line-height:100px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	margin-bottom:10px;
+	width:80%;
+	text-align:center;
+	letter-spacing:5px;
+}
+
+.local {
+	font-family: halyard-text, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:30px;
+	line-height:30px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	margin-top:10px;
+	width:80%;
+	text-align:center;
+}
+
+.cred {
+	font-family: halyard-text, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:25px;
+	line-height:25px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	margin-top:10px;
+	width:30%;
+	text-align:center;
+}
+
+.web {
+	
+	font-family: halyard-micro, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size:15px;
+	line-height:15px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	width:30%;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.web a {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.web a:hover {
+	color:black;
+	border-radius:1%;
+	background-color:#D3D3D3;
+}
+
+.nh { 
+	font-family: halyard-micro, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size:15px;
+	line-height:15px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	position:relative;
+	width:30%;
+	text-align:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
